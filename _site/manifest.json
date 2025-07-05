@@ -1,0 +1,182 @@
+{
+  "source_base_path": "/home/fraser/Github/DotNetDocs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SocketServer.ExampleClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SocketServer.ExampleClass.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SocketServer.ExampleClass",
+      "Summary": "<p sourcefile=\"api/SocketServer.ExampleClass.yml\" sourcestartlinenumber=\"1\">Every class and member should have a one sentence\nsummary describing its purpose.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SocketServer.Interfaces.ISocketServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SocketServer.Interfaces.ISocketServer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SocketServer.Interfaces.ISocketServer",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SocketServer.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SocketServer.Interfaces.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SocketServer.Interfaces",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SocketServer.Person.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SocketServer.Person.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SocketServer.Person",
+      "Summary": "<p sourcefile=\"api/SocketServer.Person.yml\" sourcestartlinenumber=\"1\">This is an example of a positional record.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SocketServer.SocketServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SocketServer.SocketServer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SocketServer.SocketServer",
+      "Summary": "<p sourcefile=\"api/SocketServer.SocketServer.yml\" sourcestartlinenumber=\"1\">Every class and member should have a one sentence\nsummary describing its purpose.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SocketServer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SocketServer.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "SocketServer",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
+        },
+        ".html": {
+          "relative_path": "api/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "docs/toc.json"
+        },
+        ".html": {
+          "relative_path": "docs/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "SocketServer": "SocketServer.yml",
+  "SocketServer.ExampleClass": "SocketServer.ExampleClass.yml",
+  "SocketServer.ExampleClass.Add(System.Int32,System.Int32)": "SocketServer.ExampleClass.yml",
+  "SocketServer.ExampleClass.Label": "SocketServer.ExampleClass.yml",
+  "SocketServer.Interfaces": "SocketServer.Interfaces.yml",
+  "SocketServer.Interfaces.ISocketServer": "SocketServer.Interfaces.ISocketServer.yml",
+  "SocketServer.Interfaces.ISocketServer.Start": "SocketServer.Interfaces.ISocketServer.yml",
+  "SocketServer.Interfaces.ISocketServer.Stop": "SocketServer.Interfaces.ISocketServer.yml",
+  "SocketServer.Person": "SocketServer.Person.yml",
+  "SocketServer.Person.#ctor(System.String,System.String)": "SocketServer.Person.yml",
+  "SocketServer.Person.FirstName": "SocketServer.Person.yml",
+  "SocketServer.Person.LastName": "SocketServer.Person.yml",
+  "SocketServer.SocketServer": "SocketServer.SocketServer.yml",
+  "SocketServer.SocketServer.#ctor(System.Int32)": "SocketServer.SocketServer.yml",
+  "SocketServer.SocketServer.Start": "SocketServer.SocketServer.yml",
+  "SocketServer.SocketServer.Stop": "SocketServer.SocketServer.yml"
+}

@@ -1,0 +1,23 @@
+### YamlMime:TableOfContent
+items:
+- uid: SocketServer
+  name: SocketServer
+  type: Namespace
+  items:
+  - uid: SocketServer.ExampleClass
+    name: ExampleClass
+    type: Class
+  - uid: SocketServer.Person
+    name: Person
+    type: Class
+  - uid: SocketServer.SocketServer
+    name: SocketServer
+    type: Class
+- uid: SocketServer.Interfaces
+  name: SocketServer.Interfaces
+  type: Namespace
+  items:
+  - uid: SocketServer.Interfaces.ISocketServer
+    name: ISocketServer
+    type: Interface
+memberLayout: SamePage

@@ -1,0 +1,37 @@
+### YamlMime:ManagedReference
+items:
+- uid: SocketServer
+  commentId: N:SocketServer
+  id: SocketServer
+  children:
+  - SocketServer.ExampleClass
+  - SocketServer.Person
+  - SocketServer.SocketServer
+  langs:
+  - csharp
+  - vb
+  name: SocketServer
+  nameWithType: SocketServer
+  fullName: SocketServer
+  type: Namespace
+  assemblies:
+  - SocketServer
+references:
+- uid: SocketServer.ExampleClass
+  commentId: T:SocketServer.ExampleClass
+  href: SocketServer.ExampleClass.html
+  name: ExampleClass
+  nameWithType: ExampleClass
+  fullName: SocketServer.ExampleClass
+- uid: SocketServer.Person
+  commentId: T:SocketServer.Person
+  href: SocketServer.Person.html
+  name: Person
+  nameWithType: Person
+  fullName: SocketServer.Person
+- uid: SocketServer.SocketServer
+  commentId: T:SocketServer.SocketServer
+  href: SocketServer.SocketServer.html
+  name: SocketServer
+  nameWithType: SocketServer
+  fullName: SocketServer.SocketServer

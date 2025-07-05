@@ -1,0 +1,46 @@
+### YamlMime:ManagedReference
+items:
+- uid: SocketServer.Interfaces
+  commentId: N:SocketServer.Interfaces
+  id: SocketServer.Interfaces
+  children:
+  - SocketServer.Interfaces.ISocketServer
+  langs:
+  - csharp
+  - vb
+  name: SocketServer.Interfaces
+  nameWithType: SocketServer.Interfaces
+  fullName: SocketServer.Interfaces
+  type: Namespace
+  assemblies:
+  - SocketServer
+references:
+- uid: SocketServer.Interfaces.ISocketServer
+  commentId: T:SocketServer.Interfaces.ISocketServer
+  parent: SocketServer.Interfaces
+  href: SocketServer.Interfaces.ISocketServer.html
+  name: ISocketServer
+  nameWithType: ISocketServer
+  fullName: SocketServer.Interfaces.ISocketServer
+- uid: SocketServer.Interfaces
+  commentId: N:SocketServer.Interfaces
+  href: SocketServer.html
+  name: SocketServer.Interfaces
+  nameWithType: SocketServer.Interfaces
+  fullName: SocketServer.Interfaces
+  spec.csharp:
+  - uid: SocketServer
+    name: SocketServer
+    href: SocketServer.html
+  - name: .
+  - uid: SocketServer.Interfaces
+    name: Interfaces
+    href: SocketServer.Interfaces.html
+  spec.vb:
+  - uid: SocketServer
+    name: SocketServer
+    href: SocketServer.html
+  - name: .
+  - uid: SocketServer.Interfaces
+    name: Interfaces
+    href: SocketServer.Interfaces.html

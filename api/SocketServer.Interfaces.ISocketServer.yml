@@ -1,0 +1,117 @@
+### YamlMime:ManagedReference
+items:
+- uid: SocketServer.Interfaces.ISocketServer
+  commentId: T:SocketServer.Interfaces.ISocketServer
+  id: ISocketServer
+  parent: SocketServer.Interfaces
+  children:
+  - SocketServer.Interfaces.ISocketServer.Start
+  - SocketServer.Interfaces.ISocketServer.Stop
+  langs:
+  - csharp
+  - vb
+  name: ISocketServer
+  nameWithType: ISocketServer
+  fullName: SocketServer.Interfaces.ISocketServer
+  type: Interface
+  source:
+    remote:
+      path: src/SocketServer/interfaces/ISocketServer.cs
+      branch: main
+      repo: https://github.com/FRAZ5094/DotNetDocs.git
+    id: ISocketServer
+    path: src/SocketServer/interfaces/ISocketServer.cs
+    startLine: 1
+  assemblies:
+  - SocketServer
+  namespace: SocketServer.Interfaces
+  syntax:
+    content: public interface ISocketServer
+    content.vb: Public Interface ISocketServer
+- uid: SocketServer.Interfaces.ISocketServer.Start
+  commentId: M:SocketServer.Interfaces.ISocketServer.Start
+  id: Start
+  parent: SocketServer.Interfaces.ISocketServer
+  langs:
+  - csharp
+  - vb
+  name: Start()
+  nameWithType: ISocketServer.Start()
+  fullName: SocketServer.Interfaces.ISocketServer.Start()
+  type: Method
+  source:
+    remote:
+      path: src/SocketServer/interfaces/ISocketServer.cs
+      branch: main
+      repo: https://github.com/FRAZ5094/DotNetDocs.git
+    id: Start
+    path: src/SocketServer/interfaces/ISocketServer.cs
+    startLine: 3
+  assemblies:
+  - SocketServer
+  namespace: SocketServer.Interfaces
+  syntax:
+    content: void Start()
+    content.vb: Sub Start()
+  overload: SocketServer.Interfaces.ISocketServer.Start*
+- uid: SocketServer.Interfaces.ISocketServer.Stop
+  commentId: M:SocketServer.Interfaces.ISocketServer.Stop
+  id: Stop
+  parent: SocketServer.Interfaces.ISocketServer
+  langs:
+  - csharp
+  - vb
+  name: Stop()
+  nameWithType: ISocketServer.Stop()
+  fullName: SocketServer.Interfaces.ISocketServer.Stop()
+  type: Method
+  source:
+    remote:
+      path: src/SocketServer/interfaces/ISocketServer.cs
+      branch: main
+      repo: https://github.com/FRAZ5094/DotNetDocs.git
+    id: Stop
+    path: src/SocketServer/interfaces/ISocketServer.cs
+    startLine: 4
+  assemblies:
+  - SocketServer
+  namespace: SocketServer.Interfaces
+  syntax:
+    content: void Stop()
+    content.vb: Sub [Stop]()
+  overload: SocketServer.Interfaces.ISocketServer.Stop*
+references:
+- uid: SocketServer.Interfaces
+  commentId: N:SocketServer.Interfaces
+  href: SocketServer.html
+  name: SocketServer.Interfaces
+  nameWithType: SocketServer.Interfaces
+  fullName: SocketServer.Interfaces
+  spec.csharp:
+  - uid: SocketServer
+    name: SocketServer
+    href: SocketServer.html
+  - name: .
+  - uid: SocketServer.Interfaces
+    name: Interfaces
+    href: SocketServer.Interfaces.html
+  spec.vb:
+  - uid: SocketServer
+    name: SocketServer
+    href: SocketServer.html
+  - name: .
+  - uid: SocketServer.Interfaces
+    name: Interfaces
+    href: SocketServer.Interfaces.html
+- uid: SocketServer.Interfaces.ISocketServer.Start*
+  commentId: Overload:SocketServer.Interfaces.ISocketServer.Start
+  href: SocketServer.Interfaces.ISocketServer.html#SocketServer_Interfaces_ISocketServer_Start
+  name: Start
+  nameWithType: ISocketServer.Start
+  fullName: SocketServer.Interfaces.ISocketServer.Start
+- uid: SocketServer.Interfaces.ISocketServer.Stop*
+  commentId: Overload:SocketServer.Interfaces.ISocketServer.Stop
+  href: SocketServer.Interfaces.ISocketServer.html#SocketServer_Interfaces_ISocketServer_Stop
+  name: Stop
+  nameWithType: ISocketServer.Stop
+  fullName: SocketServer.Interfaces.ISocketServer.Stop
